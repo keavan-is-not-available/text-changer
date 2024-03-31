@@ -1,0 +1,28 @@
+#header {
+    background-color: white;
+    margin: 0px;
+    padding: 10px;
+    opacity: 50%;
+}
+
+canvas {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: white;
+    opacity: 50%;
+}
+#foot{
+    margin-bottom: 0px;
+    background-color: white;
+    opacity: 50%;
+    text-align: center;
+    bottom:0;
+    position: fixed;
+    width:100%;
+}
+body{
+    background-image:url("shape_back.jpg");
+    background-size: cover;
+    background-position: center;
+}
